@@ -1,4 +1,4 @@
-# Grecha.js
+# Wise.js
 
 ![KashaHard](KashaHard.gif)
 
@@ -14,7 +14,7 @@ https://tsoding.org/grecha.js/example.html
   <head><title>Grecha.js</title></head>
   <body>
     <div id="entry"></div>
-    <script src="./grecha.js"></script>
+    <script src="./wise.js"></script>
     <script>
       const kasha = img("Kasha.png");
       const kashaHard = img("KashaHard.gif");
